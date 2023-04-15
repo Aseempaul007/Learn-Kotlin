@@ -1,4 +1,19 @@
 package com.example.basic
 
-class MyClass {
+fun main(){
+
+//    var myName = "Aseem Paul";
+//
+//    myName = "Janeman"
+
+//    val myName : String;
+//    myName = "Aseem Paul";
+//
+//    print("Hello world $myName");
+
+
+//    var favJuice = "Tea"
+
+
+
 }
