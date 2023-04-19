@@ -2,7 +2,7 @@ package com.example.basic
 
 fun main(){
 
-    println("Please enter yor age: ")
+    println("Please enter yor marks: ")
     var marks : Int? = readLine()?.toInt();
 
     var myValue : String = if(marks!! >90){
