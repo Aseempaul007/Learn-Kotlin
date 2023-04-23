@@ -14,6 +14,22 @@ fun main(){
 
 //    var favJuice = "Tea"
 
+    val name = "Fluffy"
+    println("my cat's name is \"$name\"");
 
+    var statement ="Two types od slshes \\ and /"
+    println(statement)
+
+    var url ="http://www.google.com"
+    println(url)
+
+
+    var firstLine = "(\\(\\"
+    var secondLine = "(-.-)"
+    var thirdLine = "o_(\")(\")"
+
+    println(firstLine)
+    println(secondLine)
+    println(thirdLine)
 
 }
