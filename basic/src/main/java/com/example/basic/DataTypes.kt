@@ -5,10 +5,10 @@ package com.example.basic
 
 /*
 Integer types :-
-Byte - 8 bits
-Int - 32 bits
-Short - 16 bits
-Long - 64 bits
+Byte - 8 bits  - 2^3
+Short - 16 bits - 2^4
+Int - 32 bits - 2^5
+Long - 64 bits - 2^6
  */
 
         var marks1 : Int = 0;

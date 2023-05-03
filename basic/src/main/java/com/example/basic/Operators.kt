@@ -4,12 +4,11 @@ fun main(){
 
 /*
 Arithmetic operators    +, -, *, /, %
-Assignment operators     =, +=, -=, *=, /+, %=
+Assignment operators     =, +=, -=, *=, /=, %=
 Increment/decrement operators    ++, --
 Comparision operators   >, <, >=, <=, ==,
-Logical operators  ||, &&
-
- */
+Logical operators  ||, &&, !
+*/
 
 
     //Arithmetic operators

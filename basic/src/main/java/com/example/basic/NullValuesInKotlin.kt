@@ -1,12 +1,25 @@
 package com.example.basic
 
+import kotlin.math.cos
+
 fun main(){
 
-    var name : String?=null;
+//    var name : String?=null;
+//    print(name!!.length)
+//
+//    var catName:String? =null
+//    println(catName?:"No cats")
 
-    print(name!!.length)
+    var cost =  99.99
+    var input= readLine()
+    var inputToDouble = input?.toDouble()
 
-    var catName:String? ="Pussy"
+    println("Anserw is ${ inputToDouble?.times(cost)}")
 
-    println(catName?:"No cats")
+//    var input1:String?= readLine()
+//    println(input1?:"Hi there")
+
+    var inputNum:Int? = readLine()?.toInt()
+    var inputNumMul5 =
+    println(inputNum?.times(5))
 }

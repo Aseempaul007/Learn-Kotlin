@@ -4,8 +4,7 @@ fun main(){
 
     println("Please enter yor marks: ")
 
-    var marks : Int
-    marks = readLine()!!.toInt()
+    var marks : Int = readLine()!!.toInt()
 
     when(marks){
 
