@@ -1,5 +1,7 @@
 package com.example.basic
 
+import com.example.AdvancedOOps.scopeOfVariable1.Airplane
+
 fun main(args:Array<String>){
     var num1 = 10;
     var num2 = 20
@@ -24,4 +26,6 @@ fun main(args:Array<String>){
     println(++num1)
     println(--num1)
     println(num1)
+
+
 }
